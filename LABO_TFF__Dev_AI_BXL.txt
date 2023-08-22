@@ -1,0 +1,35 @@
+PROJET EN PYTHON (obligatoire):
+- sujet doit contenir des données
+- individuel
+- sujet libre
+- GIT
+
+PRÉSENTATION (obligatoire): 
+- PDF !! 
+- vous vous présentez (nom,background,) en bref (<2min)
+- 15-20min au total :
+  --- min 15min - max 18min slides
+  --- 0-5min: Question-Réponses (dans les 20min max)
+- ne pas mettre de code
+- insérer des graphiques
+- mettez des screenshots du résultat d'une app si vous avez fait du flask/dash (démo-déconseillé: voir plus bas) 
+ 
+- PARTIE_DATA: au moins (+-) 50% (donc 7-10min) pour expliquer le sujet, le but du projet et les données (EDA):
+  --- concentrez-vous sur quelques colonnes (max 4) pertinentes pour votre narrative, 
+  --- même si en réalité  vous avez utilisé plus que ces 4 colonnes !
+
+  --- Bien expliquer ce que ces colonnes représentent via ENTRE AUTRES eda + CONTEXTE :
+	eda: se focaliser sur le bivarié, correlation, pca? , ou multivarié si pertinent
+
+
+- PARTIE_LIBRE : les <50% restant libre (pas forcément après la PARTIE_DATA):
+  --- par exemple: machine learning (expliquer vos conclusions de sélection: motivez vos choix), deep learning (expliquer la structure et motivez vos choix), web-scraping, flask, dash, autre…
+  --- parlez des difficultés rencontrées
+
+
+DÉMO? (optionnel-déconseillé)
+- il ne faut PAS privilégier une démo de votre (sous-)projet lors de la présentation:
+  --- faire la démo que s'il y a du temps en suffisance (entre la 15ième et 20ième minute)
+  --- quand cela plante, c'est assez décevant, et cela peut faire perdre du temps pour les présentations suivantes
+  --- ne faire que si vous utilisez votre propre ordi portable pour projeter le ppt/pdf:
+      l'ordi de présentation n'a pas tous les outils/env nécessaires pour votre projet
